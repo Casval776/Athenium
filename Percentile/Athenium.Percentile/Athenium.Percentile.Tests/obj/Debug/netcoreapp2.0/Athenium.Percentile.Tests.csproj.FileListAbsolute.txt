@@ -1,0 +1,17 @@
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Athenium.Percentile.Tests.deps.json
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Athenium.Percentile.Tests.runtimeconfig.json
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Athenium.Percentile.Tests.runtimeconfig.dev.json
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Athenium.Percentile.Tests.dll
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Athenium.Percentile.Tests.pdb
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\obj\Debug\netcoreapp2.0\Athenium.Percentile.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\obj\Debug\netcoreapp2.0\Athenium.Percentile.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\obj\Debug\netcoreapp2.0\Athenium.Percentile.Tests.AssemblyInfoInputs.cache
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\obj\Debug\netcoreapp2.0\Athenium.Percentile.Tests.AssemblyInfo.cs
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\obj\Debug\netcoreapp2.0\Athenium.Percentile.Tests.dll
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\obj\Debug\netcoreapp2.0\Athenium.Percentile.Tests.pdb
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Athenium.Percentile.exe
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Athenium.Percentile.pdb
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile.Tests\bin\Debug\netcoreapp2.0\Athenium.Percentile.exe.config

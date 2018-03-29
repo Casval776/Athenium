@@ -1,0 +1,7 @@
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile\bin\Debug\Athenium.Percentile.exe.config
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile\bin\Debug\Athenium.Percentile.exe
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile\bin\Debug\Athenium.Percentile.pdb
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile\obj\Debug\Athenium.Percentile.csprojResolveAssemblyReference.cache
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile\obj\Debug\Athenium.Percentile.csproj.CoreCompileInputs.cache
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile\obj\Debug\Athenium.Percentile.exe
+C:\Users\Casval Zem Daikun\source\repos\Athenium.Percentile\Athenium.Percentile\obj\Debug\Athenium.Percentile.pdb

@@ -1,0 +1,54 @@
+DROP TABLE ItemOrderMembership;
+DROP TABLE Item;
+DROP TABLE Category;
+
+CREATE TABLE Category(
+	categoryID		INT				NOT NULL		IDENTITY(1,1),
+	name			VARCHAR(64)		NOT NULL
+
+	PRIMARY KEY(categoryID)
+)
+
+CREATE TABLE Item (
+	itemID			INT				NOT NULL		IDENTITY(1,1),
+	name			VARCHAR(64)		NOT NULL,
+	description		VARCHAR(128)	NULL,
+	categoryID		INT				NULL,
+
+	PRIMARY KEY(itemID),
+	FOREIGN KEY(categoryID) REFERENCES [Category](categoryID)
+)
+
+CREATE TABLE ItemOrderMembership(
+	orderID			INT				NOT NULL,
+	itemID			INT				NOT NULL,
+
+	FOREIGN KEY(itemID) REFERENCES [Item](itemID)
+)
+
+INSERT INTO [Category](name)
+VALUES
+('Computer Hardware'),
+('Mens Apparel')
+
+INSERT INTO [Item](name, description, categoryID)
+VALUES
+('CORSAIR K55 RGB Gaming Keyboard', 'Three-zone dynamic RGB backlighting with 10+ preconfigured vivid RGB lighting modes', (SELECT categoryID FROM Category WHERE name LIKE '%Hardware%')),
+('Panasonic BK-3MCCA16FA eneloop AA Rechargeable Batteries', NULL, NULL),
+('Corsair CO-9050067-WW HD Series RBG LED Fans', 'Independent RBG LED lightning', (SELECT categoryID FROM Category WHERE name LIKE '%Hardware%')),
+('Levis Mens 505 Regular Fit Jean', 'Pants', (SELECT categoryID FROM Category WHERE name LIKE '%Mens Apparel%'))
+
+INSERT INTO [ItemOrderMembership]
+VALUES
+(12345, 1),
+(12345, 2),
+(12345, 3),
+(12345, 4)
+
+
+SELECT i.name AS 'Item Name', c.name AS 'Category Name'
+FROM ItemOrderMembership AS iom
+JOIN Item AS i
+ON iom.itemID = i.itemID
+LEFT OUTER JOIN Category AS c
+ON i.categoryID = c.categoryID
